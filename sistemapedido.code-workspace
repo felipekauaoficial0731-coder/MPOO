@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../../OneDrive/Documentos/smarthealth (1)"
+		},
+		{
+			"name": "testes",
+			"path": "../../../../../../../../../OneDrive/Desktop/testes"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
